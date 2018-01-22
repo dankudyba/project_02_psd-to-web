@@ -1,1 +1,1 @@
-https://github.com/dankudyba/project_02_psd-to-web.git
+https://dankudyba.github.io/project_02_psd-to-web/
